@@ -1,0 +1,15 @@
+{
+  "name": "react-starter",
+  "version": "1.0.0",
+  "description": "React starter folder structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "starter"
+  ],
+  "author": "Santosh Kumar Gopisetty",
+  "license": "ISC"
+}
